@@ -1,9 +1,9 @@
 ### Hi there,I'm Avior kasay 👋
 
 - 🔭 I’m currently working on improving myself for my first job as a full-stack developer :)
-- - 🌱 I’m currently contribute to open source in the "maakaf" community.
+- 🌱 I’m currently contribute to open source in the "maakaf" community.
 - 📫 How to reach me: www.linkedin.com/in/avior-kasay-60360b280                                             
-  - 
+  
 
 <!--
 **Avior95/Avior95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
