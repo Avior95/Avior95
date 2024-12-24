@@ -1,9 +1,17 @@
 ### Hi there,I'm Avior kasay 👋
 
-- 🔭 I’m currently working on improving myself for my first job as a full-stack developer :)
-- 🌱 I’m currently contribute to open source in the "maakaf" community.
-- 📫 How to reach me: www.linkedin.com/in/avior-kasay-60360b280                                             
-  
+# Hi, I'm Avior Kasay 👋
+
+🚀 Aspiring Full-Stack Developer | Passionate about building robust, scalable, and user-friendly web applications.  
+
+🌱 Currently honing my skills in modern web technologies and frameworks, preparing to bring value to my first role in the tech industry.  
+
+💡 Beyond coding, I enjoy diving into topics like astrophysics, machine learning, and innovative tech solutions inspired by nature.  
+
+📫 Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/avior-kasay-60360b280)  
+
+🌟 Open to collaboration and always eager to learn something new.  
+
 
 <!--
 **Avior95/Avior95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
